@@ -22,7 +22,6 @@ class FinishGoalVC: UIViewController, UITextFieldDelegate {
         self.goalType = type
     }
     
-    
     override func viewDidLoad() {
         super.viewDidLoad()
         createGoalBtn.bindToKeyboard()
