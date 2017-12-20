@@ -19,6 +19,7 @@
 		B6B17A291FE974BC007EDDA2 /* UIViewControllerExt.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6B17A281FE974BC007EDDA2 /* UIViewControllerExt.swift */; };
 		B6B17A2B1FEA8608007EDDA2 /* UIViewExt.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6B17A2A1FEA8608007EDDA2 /* UIViewExt.swift */; };
 		B6B17A2D1FEA8AF2007EDDA2 /* UIButtonExt.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6B17A2C1FEA8AF2007EDDA2 /* UIButtonExt.swift */; };
+		B6B17A2F1FEA9471007EDDA2 /* FinishGoalVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6B17A2E1FEA9471007EDDA2 /* FinishGoalVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		B6B17A281FE974BC007EDDA2 /* UIViewControllerExt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIViewControllerExt.swift; sourceTree = "<group>"; };
 		B6B17A2A1FEA8608007EDDA2 /* UIViewExt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIViewExt.swift; sourceTree = "<group>"; };
 		B6B17A2C1FEA8AF2007EDDA2 /* UIButtonExt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIButtonExt.swift; sourceTree = "<group>"; };
+		B6B17A2E1FEA9471007EDDA2 /* FinishGoalVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FinishGoalVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +89,7 @@
 			children = (
 				B6B17A0B1FE93495007EDDA2 /* GoalsVC.swift */,
 				B6B17A261FE9730B007EDDA2 /* CreateGoalVC.swift */,
+				B6B17A2E1FEA9471007EDDA2 /* FinishGoalVC.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -197,6 +200,7 @@
 				B6B17A0A1FE93495007EDDA2 /* AppDelegate.swift in Sources */,
 				B6B17A291FE974BC007EDDA2 /* UIViewControllerExt.swift in Sources */,
 				B6B17A2D1FEA8AF2007EDDA2 /* UIButtonExt.swift in Sources */,
+				B6B17A2F1FEA9471007EDDA2 /* FinishGoalVC.swift in Sources */,
 				B6B17A121FE93495007EDDA2 /* goalpost_app.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
